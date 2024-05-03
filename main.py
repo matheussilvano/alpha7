@@ -40,3 +40,8 @@ Cliente:
 • Senha: {senha}
 
 Em caso de dúvidas, estamos à disposição.''')
+      continuar = input('Clique enter para voltar a tela inicial')
+      os.system('clear')
+  if email == '2':
+    print('EMAIL DE CONCLUSÃO')
+    

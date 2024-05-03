@@ -13,7 +13,7 @@ while True:
 [2] Email de conclusao''')
     email = input('Escolha a opcao desejada :')
     os.system('clear')
-    if email == '1'
+    if email == '1':
       print('EMAIL INICIAL')
       gdi = input('Digite o numero da gdi: ')
       razao_social = input('Digite a razao social do cliente: ')

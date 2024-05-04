@@ -5,7 +5,7 @@ while True:
   print('''Portal Alpha7
 [1] Gerador de email
 [2] Gerador de comentario''')
-  menu = input('Escolha a opcao desejada :')
+  menu = input('Escolha a opcao desejada: ')
   os.system('clear')
   if menu == '1':
     print('GERADOR DE EMAIL')
@@ -44,4 +44,3 @@ Em caso de dúvidas, estamos à disposição.''')
       os.system('clear')
   if email == '2':
     print('EMAIL DE CONCLUSÃO')
-    

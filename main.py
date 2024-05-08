@@ -41,3 +41,6 @@ print('''||BANCO||CNPJ||SERVIÇO||CONTA||AGÊNCIA||STATUS||AÇÃO||''')
 for banco in bancos_info:
     for servico in servicos_info:
         print(f'|{banco}|{cnpj_info}|{servico}|(x)|(x)|(x)|Aguardando relacionamento|')
+
+# ERROS PARA CORREÇÃO:
+# Inclusão de mais de um banco

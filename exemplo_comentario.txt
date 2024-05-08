@@ -1,0 +1,22 @@
+# EXEMPLOS DE COMENTÁRIOS
+
+Prezados, boa tarde!
+
+Kick Off realizado com o cliente MERCADO DE TESTE, no dia 30/04/2024, pela Implantação Nexxera.
+Segue abaixo as informações que levantamos para o início da implantação:
+Bancos que serão utilizados: Sicredi, serviços: Conciliação, Pagamento, DDA, Cobrança.
+Para a demanda de Cartões: Redecard, 1 CNPJ/Ponto de Venda.
+Contato chave / ponto focal do projeto: Silvano (54)4444-4444
+Seguem informações importantes:
+
+Cliente:
+
+• Operador responsável pela implantação será Matheus Silvano no telefone (48)21065255 - ou setor (48)21065218, e-mail implantacao.cartoes@nexxera.com
+
+Alpha7:
+
+• Cliente CNPJ: 12.345.678/0001-99
+• Caixa postal: TESTE.TESTE
+• Senha: Teste2024
+
+Qualquer dúvida estamos à disposição.
